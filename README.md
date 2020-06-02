@@ -16,7 +16,7 @@ This repository contains the code belonging the the paper _"Ten Oever, Meierdier
 
 ### Figure 3
 [S02_00_EEGCircGLM](S02_00_EEGCircGLM.m): Circular correlation between phase and response<br/>
-[S03_00_EEGCircGLM_followup](S03_00_EEGCircGLM_followup.m): Follow up analyses on the main circular correlation Figure<br/>
+[S03_00_EEGCircGLM_followup](S03_00_EEGCircGLM_followup.m): Follow up analyses on the main circular correlation<br/>
 
 <p align="center">
   <img src="https://github.com/sannetenoever/2020_phase_discrimination/blob/master/Figures/Fig3_CirCorr-01.png"   alt="Figure 3" width="300"/>
