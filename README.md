@@ -2,7 +2,9 @@
 
 This repository contains the code belonging the the paper _"Ten Oever, Meierdierks, De Graaf, Duecker, & Sack (2020). Phase-coded oscillatory ordering promotes the separation of closely matched representations to optimize perceptual discrimination."_
 
-<img src="https://github.com/sannetenoever/2020_phase_discrimination/blob/master/Figures/GraphAb-01.png" alt="Graphical Abstract" width="500"/>
+<p align="center">
+  <img src="https://github.com/sannetenoever/2020_phase_discrimination/blob/master/Figures/GraphAb-01.png" alt="Graphical Abstract" width="500"/>
+</p>
 
 ## Figures and corresponding scripts
 ### Figure 2
