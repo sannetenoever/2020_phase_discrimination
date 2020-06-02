@@ -2,13 +2,13 @@
 
 This repository contains the code belonging the the paper _"Ten Oever, Meierdierks, De Graaf, Duecker, & Sack (2020). Phase-coded oscillatory ordering promotes the separation of closely matched representations to optimize perceptual discrimination."_
 
-![Graphical Abstract](./Figures/GraphAb-01.png =100x)
+![Graphical Abstract](./Figures/GraphAb-01.png | width=100)
 
 ## Figures and corresponding scripts
 ### Figure 2
 [S01_00_BehavioralAnalysis](./S01_00_BehavioralAnalysis.m): Psychometric curves
 
-![Figure 2](./Figures/Fig2_Beh-01.png =200x)
+![Figure 2](./Figures/Fig2_Beh-01.png =200x200)
 
 ### Figure 3
 [S02_00_EEGCircGLM](S02_00_EEGCircGLM.m): Circular correlation between phase and response
