@@ -1,6 +1,6 @@
 # Phase Discrimination
 
-This repository contains the code belonging the the paper _"Phase-coded oscillatory ordering promotes the separation of closely matched representations to optimize perceptual discrimination (2020). Ten Oever, Meierdierks, De Graaf, Duecker, & Sack"._
+This repository contains the code belonging the the paper _"Ten Oever, Meierdierks, De Graaf, Duecker, & Sack (2020). Phase-coded oscillatory ordering promotes the separation of closely matched representations to optimize perceptual discrimination."_
 
 ![Graphical Abstract](./Figures/GraphAb-01.png =100x)
 
