@@ -41,7 +41,7 @@ This repository contains the code belonging the the paper _"Ten Oever, Meierdier
 [S06_00_EEGCirc_overallCorr](./S06_00_EEGCirc_overallCorr): correlation between behavioral phase effect and overall correlation<br/>
 
 <p align="center">
-  <img src="https://github.com/sannetenoever/2020_phase_discrimination/blob/master/Figures/Fig7_Overcor-01.png"   alt="Figure 7" width="300"/>
+  <img src="https://github.com/sannetenoever/2020_phase_discrimination/blob/master/Figures/Fig7_OverCor-01.png"   alt="Figure 7" width="300"/>
 </p>
 
 ### Notes
