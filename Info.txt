@@ -1,0 +1,16 @@
+Version info:
+Matlab 2017a
+Fieldtrip 20161231
+CircStat 2012a
+TRF toolbox-2
+
+Trialinfo contains the following information:
+1:	Trigger number
+2:	Pitch number
+3:	Response
+4:	Reaction time (ms)
+5:	Response to next stimulus interval (ms)
+6:	Trial number
+7:	Density
+8:	Velocity
+9:	Sound identifier
