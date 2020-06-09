@@ -45,5 +45,5 @@ This repository contains the code belonging the the paper _"Ten Oever, Meierdier
 </p>
 
 ### Notes
-- All data can be found here: [https://hdl.handle.net/10411/HD4MR4][https://hdl.handle.net/10411/HD4MR4]
+- All data can be found here: [https://hdl.handle.net/10411/HD4MR4](https://hdl.handle.net/10411/HD4MR4)
 - Information regarding the data structures is in the attached [Info.txt](./Info.txt) file
